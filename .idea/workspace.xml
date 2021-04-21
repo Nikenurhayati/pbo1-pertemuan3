@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="728e50d3-222e-4df5-ada2-5c5d804ae4f1" name="Default Changelist" comment="toUppercase untuk membuat huruf kapital&#10;toLowercase untuk membuat huruf kecil&#10;substring(6) untuk menampilkan huruf dari 6 sampai seterusnya&#10;substring (0,6) untuk menampilkan huruf dari 0 sampai sebelum 6">
-      <change afterPath="$PROJECT_DIR$/src/Operator/OperatorBinary.java" afterDir="false" />
+    <list default="true" id="728e50d3-222e-4df5-ada2-5c5d804ae4f1" name="Default Changelist" comment="operator Binary Assigment">
+      <change afterPath="$PROJECT_DIR$/src/Operator/OperatorUnary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Nikenurhayati &lt;nikenurhayati37@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -34,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.OperatorBinary">
+  <component name="RunManager" selected="Application.OperatorUnary">
     <configuration name="OperasiString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.OperasiString" />
       <module name="pbo1-pertemuan3" />
@@ -55,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperatorUnary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator.OperatorUnary" />
+      <module name="pbo1-pertemuan3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatorUnary" />
         <item itemvalue="Application.OperatorBinary" />
         <item itemvalue="Application.OperasiString" />
       </list>
@@ -113,7 +133,28 @@
       <option name="project" value="LOCAL" />
       <updated>1619006230207</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="operator Binary Assigment">
+      <created>1619006617693</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619006617693</updated>
+    </task>
+    <task id="LOCAL-00008" summary="operator Binary Assigment">
+      <created>1619006764993</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619006764993</updated>
+    </task>
+    <task id="LOCAL-00009" summary="operator Binary Assigment">
+      <created>1619006833247</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619006833247</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +173,8 @@
     <MESSAGE value="Buat Class OperasiString" />
     <MESSAGE value="Membuat String dari array Char" />
     <MESSAGE value="toUppercase untuk membuat huruf kapital&#10;toLowercase untuk membuat huruf kecil&#10;substring(6) untuk menampilkan huruf dari 6 sampai seterusnya&#10;substring (0,6) untuk menampilkan huruf dari 0 sampai sebelum 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="toUppercase untuk membuat huruf kapital&#10;toLowercase untuk membuat huruf kecil&#10;substring(6) untuk menampilkan huruf dari 6 sampai seterusnya&#10;substring (0,6) untuk menampilkan huruf dari 0 sampai sebelum 6" />
+    <MESSAGE value="operator Binary Aritmatika" />
+    <MESSAGE value="operator Binary Assigment" />
+    <option name="LAST_COMMIT_MESSAGE" value="operator Binary Assigment" />
   </component>
 </project>
