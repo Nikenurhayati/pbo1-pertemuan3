@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="728e50d3-222e-4df5-ada2-5c5d804ae4f1" name="Default Changelist" comment="toUppercase untuk membuat huruf kapital&#10;toLowercase untuk membuat huruf kecil&#10;substring(6) untuk menampilkan huruf dari 6 sampai seterusnya&#10;substring (0,6) untuk menampilkan huruf dari 0 sampai sebelum 6" />
+    <list default="true" id="728e50d3-222e-4df5-ada2-5c5d804ae4f1" name="Default Changelist" comment="toUppercase untuk membuat huruf kapital&#10;toLowercase untuk membuat huruf kecil&#10;substring(6) untuk menampilkan huruf dari 6 sampai seterusnya&#10;substring (0,6) untuk menampilkan huruf dari 0 sampai sebelum 6">
+      <change afterPath="$PROJECT_DIR$/src/Operator/OperatorBinary.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619005977467</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="toUppercase untuk membuat huruf kapital&#10;toLowercase untuk membuat huruf kecil&#10;substring(6) untuk menampilkan huruf dari 6 sampai seterusnya&#10;substring (0,6) untuk menampilkan huruf dari 0 sampai sebelum 6">
+      <created>1619006230207</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619006230207</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
