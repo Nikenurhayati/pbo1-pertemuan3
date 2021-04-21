@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="728e50d3-222e-4df5-ada2-5c5d804ae4f1" name="Default Changelist" comment="operator Binary Assigment">
-      <change afterPath="$PROJECT_DIR$/src/Operator/OperatorUnary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="728e50d3-222e-4df5-ada2-5c5d804ae4f1" name="Default Changelist" comment="Operator Equality dan Relation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +37,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.OperatorEquality">
+  <component name="RunManager" selected="Application.IfElse">
+    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="percabangan.IfElse" />
+      <module name="pbo1-pertemuan3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OperasiString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.OperasiString" />
       <module name="pbo1-pertemuan3" />
@@ -89,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElse" />
         <item itemvalue="Application.OperatorEquality" />
         <item itemvalue="Application.OperatorUnary" />
         <item itemvalue="Application.OperatorBinary" />
@@ -168,7 +179,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619006833247</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="operator Unary">
+      <created>1619007432384</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619007432384</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Operator Equality dan Relation">
+      <created>1619007731174</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619007731174</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +214,8 @@
     <MESSAGE value="toUppercase untuk membuat huruf kapital&#10;toLowercase untuk membuat huruf kecil&#10;substring(6) untuk menampilkan huruf dari 6 sampai seterusnya&#10;substring (0,6) untuk menampilkan huruf dari 0 sampai sebelum 6" />
     <MESSAGE value="operator Binary Aritmatika" />
     <MESSAGE value="operator Binary Assigment" />
-    <option name="LAST_COMMIT_MESSAGE" value="operator Binary Assigment" />
+    <MESSAGE value="operator Unary" />
+    <MESSAGE value="Operator Equality dan Relation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operator Equality dan Relation" />
   </component>
 </project>
