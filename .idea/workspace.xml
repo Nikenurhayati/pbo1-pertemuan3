@@ -34,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OperatorBinary">
     <configuration name="OperasiString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.OperasiString" />
       <module name="pbo1-pertemuan3" />
@@ -42,8 +42,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperatorBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator.OperatorBinary" />
+      <module name="pbo1-pertemuan3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatorBinary" />
         <item itemvalue="Application.OperasiString" />
       </list>
     </recent_temporary>
