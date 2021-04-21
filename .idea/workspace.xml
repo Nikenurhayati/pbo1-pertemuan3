@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="728e50d3-222e-4df5-ada2-5c5d804ae4f1" name="Default Changelist" comment="Operator Equality dan Relation" />
+    <list default="true" id="728e50d3-222e-4df5-ada2-5c5d804ae4f1" name="Default Changelist" comment="Percabangan If Else">
+      <change beforePath="$PROJECT_DIR$/src/percabangan/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/percabangan/IfElse.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619007731174</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Percabangan If Else">
+      <created>1619008009711</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619008009711</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +225,7 @@
     <MESSAGE value="operator Binary Assigment" />
     <MESSAGE value="operator Unary" />
     <MESSAGE value="Operator Equality dan Relation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operator Equality dan Relation" />
+    <MESSAGE value="Percabangan If Else" />
+    <option name="LAST_COMMIT_MESSAGE" value="Percabangan If Else" />
   </component>
 </project>
